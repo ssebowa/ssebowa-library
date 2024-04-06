@@ -1,4 +1,30 @@
-# Ssebowa
+<p align="">
+  <a href="https://ssebowa.ai">
+    <img src="images/ssebowa_banner.jpg" height="">
+  </a>
+  <h1 align="center">
+    <a href="https://librechat.ai">Ssebowa Python Library</a>
+  </h1>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/FpTFX2k3"> 
+    <img
+      src="https://img.shields.io/discord/1086345563026489514?label=&logo=discord&style=for-the-badge&logoWidth=20&logoColor=white&labelColor=000000&color=blueviolet">
+  </a>
+  <a href="https://https://twitter.com/Ssebowa123"> 
+    <img
+      src="https://img.shields.io/badge/X-red.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&logoWidth=20">
+  </a>
+  <a href="https://www.linkedin.com/showcase/ssebowa123"> 
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-blue.svg?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=000000&logoWidth=20">
+  </a>
+  <a aria-label="Sponsors" href="https://huggingface.co/Ssebowa-Ai">
+    <img
+      src="https://img.shields.io/badge/HUGGING-FACE-brightgreen.svg?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000&logoWidth=20">
+  </a>
+</p>
 Ssebowa is an open source Python library that provides  generative AI models, including:
 
 - ```ssebowa-llm:``` A large language model (LLM) for text generation,
@@ -8,7 +34,7 @@ Ssebowa is an open source Python library that provides  generative AI models, in
 
 With Ssebowa, you can easily generate text, translate languages, write different kinds of creative content, personalized image generation and answer your questions in an informative way.
 
-For more detailed usage information, please refer to: [Ssebowa's technical documentation](https://ssebowa.ai) 
+For more detailed usage information, please refer to: [Ssebowa's technical documentation](https://pypi.org/project/ssebowa/)
 
 
 
